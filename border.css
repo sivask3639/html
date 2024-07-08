@@ -1,0 +1,24 @@
+header{
+	border-color:green;
+	border-style:double;
+	border-width:20px;
+	
+	text-align:center;
+	
+}	
+p{
+	border-left:4px red solid;
+	border-right:4px green solid;
+	padding:20px;
+	
+}
+img{
+	height:100px;
+	width:100px;
+	
+	border-left:40px red solid;
+	border-right:40px green solid;
+	border-top:40px red solid;
+	border-bottom:40px green solid;
+	padding:20px;
+}
